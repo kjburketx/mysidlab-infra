@@ -10,7 +10,6 @@
     - httpd
     - httpd-tools
     - git
-    - htop
 
 # Configure apache
 - name: Ensure httpd is running
